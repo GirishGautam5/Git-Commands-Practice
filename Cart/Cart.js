@@ -9,7 +9,9 @@ export default function Cart() {
             <h1>Cart JS file</h1>
             <p>Welcome to Cart Page</p>
             <p>{itemsCount}</p>
-                <form></form>
+            <div>
+                <image style='width:50px;height:40px'></image>
+            </div>
         </div>
     )
 }
